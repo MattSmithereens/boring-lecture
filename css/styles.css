@@ -1,7 +1,17 @@
+body {
+  font-family: fantasy;
+}
+
 .important {
   color: red;
 }
 
 .unimportant {
   color: blue;
+}
+
+.emp {
+
+  font-style: italic;
+  font-weight: bold;
 }
